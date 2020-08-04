@@ -1,6 +1,8 @@
 language: ruby
 rvm:
   #- 1.9.3 - The latest google api client depends on ruby >2.0.0 (for a double splat operator)
+  - 2.4.5
+  - 2.4.0
   - 2.3.0
   - 2.2.0
   - 2.0.0
